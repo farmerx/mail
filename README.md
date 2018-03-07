@@ -17,7 +17,7 @@ Mail 【golang send mail package】
 ## Mail: Use github.com/farmerx/mail
 
 ```
- email := NewEMail(`{"port":25}`)
+        email := NewEMail(`{"port":25}`)
 	email.From = `farmerx@163.com`
 	email.Host = `smtp.163.com`
 	email.Port = int(25) // [587 NTLM AUTH] [465，994]
