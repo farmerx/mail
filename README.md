@@ -1,4 +1,4 @@
-# Mail 【golang send mail package】
+Mail 【golang send mail package】
 ------
 
 ##  Mail: send mail support AUTH:
