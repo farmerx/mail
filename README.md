@@ -11,7 +11,7 @@ Mail 【golang send mail package】
 ## Mail: send mail support Secure:
 
 * SSL
-* TSL
+* TLS
 * 非安全加密
 
 
