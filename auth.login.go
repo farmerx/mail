@@ -1,4 +1,3 @@
-// 从beego里抄来的
 package mail
 
 import (
