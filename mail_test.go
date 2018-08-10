@@ -30,7 +30,7 @@ func Test_SendMail(t *testing.T) {
 		email.Auth = smtp.PlainAuth(email.Identity, email.Username, email.Password, email.Host)
 	}
 
-	email.To = []string{`bibinbin@360.net`}
+	email.To = []string{`farmerx@163.com`}
 	email.Subject = `send mail success`
 	email.Text = "尊敬的用户：\r\n   您好，附件中是您订阅的报表，请注意查收。"
 	//email.AttachFile(reportFile)
